@@ -1,0 +1,41 @@
+{"places": [{
+  "id":1,
+  "location": "Hyderabad",
+  "place": "Ramoji film city",
+  "type": "Film city",
+  "cost": 6500,
+  "timeduration": "10-15 hours" 
+
+},
+{
+  "id":2,
+  "location": "Hyderabad",
+  "place": "Charminar",
+  "type": "monument",
+  "cost": 1000,
+  "timeduration": "6-7 hours" 
+},
+{
+  "id":3,
+  "location": "New Haven",
+  "place": "Yale Museum",
+  "type": "Historical",
+  "cost": 1500,
+  "timeduration": "5-8 hours" 
+},
+{
+  "id":4,
+  "location": "chennai",
+  "place": "Rama Beach",
+  "type": "Beach",
+  "cost": 1500,
+  "timeduration": "5-6 hours"  
+},
+{
+  "id":5,
+  "location": "Mumai",
+  "place": "Taj",
+  "type": "Hotel",
+  "cost": 1500,
+  "timeduration": "8-10 hours" 
+}]}
